@@ -1,4 +1,4 @@
 # python-homework
 
 
-##作业内容在蟒 - 帽沿蜘蛛主目录下。
+##作业内容在python-maoyan-spider-master主目录下。
